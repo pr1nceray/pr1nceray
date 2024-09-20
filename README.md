@@ -10,12 +10,19 @@ I am Amr Hussein, a junior pursuing a bachelors of Computer Science @ the Univer
 - - Cuda (1 year)
 - - Reactjs/Nextjs/Tailwind(6 months)
 
+Some of my Team Projects include...
+- A mobile app built in React Native designed around helping users automate car maintanence.
+- - Uses Firebase for User logins, and Mysql for database storage.
+- A NextJs remix of Aiden 's 3d chart , called [Tri-Viz](https://github.com/pr1nceray/3dOrgChartRemix)
+- - Uses AWS for user logins, and SQL for database storage.
+
 Some of my personal projects include... 
 
 - A 6 phase source to source compiler for the [UC24](https://eecs390.github.io/uc-language/) language built using yaml/python
 - A C/C++/Cuda accelerated 3d renderer called [PriRend](https://github.com/pr1nceray/PriRend)
 - A C++/Cuda accelerated [Fractal Renderer](https://github.com/pr1nceray/Fractal-Viewer)
 - A C++/Cuda accelerated [Boid Simulation](https://github.com/pr1nceray/Boids-Simulator)
+  
 
 My notable courses include:
 - Operating systems (EECS 482)
