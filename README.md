@@ -5,7 +5,7 @@ I am Amr Hussein, a junior pursuing a bachelors of Computer Science @ the Univer
 - I am focusing my coursework/projects on high compute systems
 - I have experince with :
 
-- - Python (1.5 years
+- - Python (1.5 years)
 - - C/C++ (3 years)
 - - Cuda (1 year)
 - - Reactjs/Nextjs/Tailwind(6 months)
