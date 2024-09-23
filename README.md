@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I am Amr Hussein, a junior pursuing a bachelors of Computer Science @ the University of Michigan, Ann arbor.
+Currently Seeking an Internship! find my email below to contact me.
 
 - I am focusing my coursework/projects on high compute systems
 - I have experince with :
