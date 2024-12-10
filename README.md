@@ -6,10 +6,10 @@ Currently Seeking an Internship! find my email below to contact me.
 - I am focusing my coursework/projects on high compute systems
 - I have experince with :
 
-- - Python (1.5 years)
-- - C/C++ (3 years)
-- - Cuda (1 year)
-- - Reactjs/Nextjs/Tailwind(6 months)
+- - Python 
+- - C/C++ 
+- - Cuda 
+- - Reactjs/Nextjs/Tailwind
 
 Some of my Team Projects include...
 - A mobile app built in React Native designed around helping users automate car maintanence.
