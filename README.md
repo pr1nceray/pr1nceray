@@ -13,8 +13,7 @@ I am Amr Hussein, a junior pursuing a bachelors of Computer Science @ the Univer
 Some of my Team Projects include...
 - A mobile app built in React Native designed around helping users automate car maintanence.
 - - Uses Firebase for User logins, and Mysql for database storage.
-- A NextJs remix of Aiden 's 3d chart , called [Tri-Viz](https://github.com/pr1nceray/3dOrgChartRemix)
-- - Uses AWS for user logins, and SQL for database storage.
+
 
 Some of my personal projects include... 
 
