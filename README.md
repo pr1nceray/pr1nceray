@@ -1,8 +1,8 @@
 ## Hi there 👋
+## (OUT OF DATE, UPDATING SOON!)
+I am Amr Hussein, a senior pursuing a bachelors of Computer Science @ the University of Michigan, Ann arbor. find my email below to contact me.
 
-I am Amr Hussein, a junior pursuing a bachelors of Computer Science @ the University of Michigan, Ann arbor. find my email below to contact me.
-
-- I am focusing my coursework/projects on high compute systems
+- I am focusing my coursework/projects on high compute/low latency systems
 - I have experince with :
 
 - - Python 
